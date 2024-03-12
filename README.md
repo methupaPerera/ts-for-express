@@ -39,6 +39,6 @@ This repository gives you a simple but better folder structure to use ExpressJS 
 
 ## Deployment with Vercel 🌐
 
-This project is Vercel-ready! Just push your changes, and Vercel will automatically deploy your app.
+This project is Vercel-ready! Just build the Typescript into Javascript and push your changes, and Vercel will automatically deploy your app.
 
 Feel free to customize and extend this structure to suit your project needs. Happy coding! 👩‍💻👨‍💻
