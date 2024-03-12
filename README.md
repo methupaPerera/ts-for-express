@@ -2,6 +2,8 @@
 
 This repository gives you a simple but better folder structure to use ExpressJS with Typescript.
 
+🌟 Don't forget to star ⭐ this repository if you find it helpful! 🌟
+
 ## Getting Started 💻
 
 1. **Installation:**
