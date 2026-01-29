@@ -5,10 +5,10 @@ import cors from "cors";
 import type { Request, Response } from "express";
 
 // Importing configurations.
-import { config, db } from "./config/index.ts";
+import { config, db } from "./config/index";
 
 // Importing route handlers.
-import sampleRoute from "./routes/sampleRoute.ts";
+import sampleRoute from "./routes/sampleRoute";
 
 const app = express();
 const port = config.port;

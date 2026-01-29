@@ -15,21 +15,21 @@ This repository gives you a simple but better folder structure to use ExpressJS 
 ## Folder Structure 📂
 
 - **/src:**
-  - `server.ts`: Entry point of your ExpressJS application.
+  - `server`: Entry point of your ExpressJS application.
 - **/src/routes:**
-  - `sampleRoute.ts`: Example route for you to build upon.
+  - `sampleRoute`: Example route for you to build upon.
 - **/src/models**
 - **/src/services**
 - **/src/types**
 - **/src/utils**
 - **/src/validations**
-  - `db.ts`: Database configuration.
-  - `config.ts`: General configuration settings.
-  - `index.ts`: Centralized configuration export.
+  - `db`: Database configuration.
+  - `config`: General configuration settings.
+  - `index`: Centralized configuration export.
 
 - **/src/controllers:**
-  - `sampleController.ts`: Example controller for handling business logic.
-  - `index.ts`: Centralized controller export.
+  - `sampleController`: Example controller for handling business logic.
+  - `index`: Centralized controller export.
 - **/:**
   - `package.json`: Project dependencies and scripts.
   - `.gitignore`: Ignored files and directories for version control.

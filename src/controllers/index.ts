@@ -1,1 +1,1 @@
-export { default as sampleController } from "./sampleController.ts";
+export { default as sampleController } from "./sampleController";

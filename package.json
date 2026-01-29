@@ -7,7 +7,7 @@
 	"type": "module",
 	"main": "./src/server.js",
 	"scripts": {
-		"start": "nodemon src/server.ts"
+		"start": "nodemon src/server"
 	},
 	"dependencies": {
 		"cookie-parser": "^1.4.7",
