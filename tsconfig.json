@@ -4,8 +4,11 @@
 		"module": "NodeNext",
 		"moduleResolution": "NodeNext",
 		"esModuleInterop": true,
+		"strict": true,
 		"forceConsistentCasingInFileNames": true,
-		"strict": true
+		"skipLibCheck": true,
+		"resolveJsonModule": true,
+		"isolatedModules": true
 	},
 	"include": ["src"]
 }
