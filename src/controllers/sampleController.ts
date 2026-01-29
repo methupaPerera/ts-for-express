@@ -1,4 +1,4 @@
-import { Request, Response } from "express";
+import type { Request, Response } from "express";
 
 const sampleController = (req: Request, res: Response) => {
     res.send("<h1>From Sample Controller...</h1>");

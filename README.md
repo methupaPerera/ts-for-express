@@ -9,11 +9,7 @@ This repository gives you a simple but better folder structure to use ExpressJS 
 1. **Installation:**
    ```bash
    npm install
-2. **Transpile TypeScript:**
-
-    ```bash
-    npm run build
-3. **Run the App:** (Please open a new terminal.)
+2. **Run the App:** (Please open a new terminal.)
     ```bash
     npm run start
 ## Folder Structure 📂
@@ -22,9 +18,11 @@ This repository gives you a simple but better folder structure to use ExpressJS 
   - `server.ts`: Entry point of your ExpressJS application.
 - **/src/routes:**
   - `sampleRoute.ts`: Example route for you to build upon.
-- **/src/models:**
-  - `sampleModel.ts`: Sample data model.
-- **/src/config:**
+- **/src/models**
+- **/src/services**
+- **/src/types**
+- **/src/utils**
+- **/src/validations**
   - `db.ts`: Database configuration.
   - `config.ts`: General configuration settings.
   - `index.ts`: Centralized configuration export.
@@ -35,12 +33,11 @@ This repository gives you a simple but better folder structure to use ExpressJS 
 - **/:**
   - `package.json`: Project dependencies and scripts.
   - `.gitignore`: Ignored files and directories for version control.
-  - `tsconfig.json`: TypeScript configuration.
   - `vercel.json`: Configuration for Vercel deployment.
   - `.env`: Environment variables. (You can update those.)
 
 ## Deployment with Vercel 🌐
 
-This project is Vercel-ready! Just build the Typescript into Javascript and push your changes, and Vercel will automatically deploy your app.
+This project is Vercel-ready!
 
 Feel free to customize and extend this structure to suit your project needs. Happy coding! 👩‍💻👨‍💻
