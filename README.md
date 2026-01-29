@@ -36,8 +36,4 @@ This repository gives you a simple but better folder structure to use ExpressJS 
   - `vercel.json`: Configuration for Vercel deployment.
   - `.env`: Environment variables. (You can update those.)
 
-## Deployment with Vercel 🌐
-
-This project is Vercel-ready!
-
 Feel free to customize and extend this structure to suit your project needs. Happy coding! 👩‍💻👨‍💻
