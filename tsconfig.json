@@ -5,10 +5,7 @@
 		"moduleResolution": "NodeNext",
 		"esModuleInterop": true,
 		"forceConsistentCasingInFileNames": true,
-		"strict": true,
-		"allowImportingTsExtensions": true,
-		"outDir": "dist",
-		"rootDir": "src"
+		"strict": true
 	},
 	"include": ["src"]
 }
